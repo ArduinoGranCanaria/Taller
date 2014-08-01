@@ -1,4 +1,4 @@
-Taller
+README
 ======
 
-Prácticas y apuntes desarrollados durante el taller
+Prácticas desarrolladas durante el taller de Arduino Gran Canaria.
